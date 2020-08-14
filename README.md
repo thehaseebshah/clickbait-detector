@@ -1,17 +1,17 @@
-# Clickbait Detection
+# Clickbait Detector
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
-![GitHub stars](https://img.shields.io/github/stars/zenyc/clickbait_detection?style=social)
-![Issues](https://img.shields.io/github/issues/zenyc/clickbait_detection)
-![GitHub repo size](https://img.shields.io/github/repo-size/zenyc/clickbait_detection)
-![GitHub contributors](https://img.shields.io/github/contributors/zenyc/clickbait_detection)
-![GitHub forks](https://img.shields.io/github/forks/zenyc/clickbait_detection?style=social)
+![GitHub stars](https://img.shields.io/github/stars/zenyc/clickbait-detector?style=social)
+![Issues](https://img.shields.io/github/issues/zenyc/clickbait-detector)
+![GitHub repo size](https://img.shields.io/github/repo-size/zenyc/clickbait-detector)
+![GitHub contributors](https://img.shields.io/github/contributors/zenyc/clickbait-detector)
+![GitHub forks](https://img.shields.io/github/forks/zenyc/clickbait-detector?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/dialhaseeb?style=social)
 
 ![Logo](https://github.com/zenyc/zenyc/blob/master/logo-small.png)
 
 ## 🕯 About
-**clickbait_detection** is a *machine learning model* that predicts if a given article or blog heading is clickbait or not. It uses Deep Learning techniques to do so.
+**clickbait-detector** is a *machine learning model* that predicts if a given article or blog heading is clickbait or not. It uses Deep Learning techniques to do so.
 
 <!--- Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.--->
 
